@@ -58,6 +58,20 @@ body{
 #poster-4{
   position: absolute;
   left: 50%;
-  transform:translate(-50%,200%);
+  transform:translate(-50%,0%);
   height: 800px;
+}
+
+#quote-book-2{
+  position:absolute;
+  left:50%;
+  transform: translate(-50%,80%);
+  height:1200px;
+}
+
+#quote-1{
+  position: absolute;
+  left: 50%;
+  transform:translate(-50%,450%);
+  height:500px;
 }
